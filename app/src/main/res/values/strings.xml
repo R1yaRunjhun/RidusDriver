@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RidusDriver</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string-array name="spinner_array">
+        <item>India(+91)</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

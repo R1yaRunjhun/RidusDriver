@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "753260137317",
+    "firebase_url": "https://ridus-bb5ea.firebaseio.com",
+    "project_id": "ridus-bb5ea",
+    "storage_bucket": "ridus-bb5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753260137317:android:2d0ef8aeaa8a111c0bef8c",
+        "android_client_info": {
+          "package_name": "com.example.ridus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753260137317-i9o2sjl60r3cjdeqj6mrnsk1j2ou9f68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridus",
+            "certificate_hash": "a9af6d8fd4910e557d85145e6602e6c9e1bda8da"
+          }
+        },
+        {
+          "client_id": "753260137317-ef4fi30m6tfqqvn4no9qfdhc4ujbvo34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridus",
+            "certificate_hash": "f1278f8db53b58ea79116e06d93e5fd3627a4f28"
+          }
+        },
+        {
+          "client_id": "753260137317-qu9bbb1dfqbcdegn6d42di4lpdna6sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYJt_lxbs_9SLWIXAVBtVQdaS3oQRrPk"
+        },
+        {
+          "current_key": "AIzaSyCsIu1HZszcgROwOWtKNXmSfYX1m-WBR4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753260137317-qu9bbb1dfqbcdegn6d42di4lpdna6sst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753260137317:android:d217aba7691e719c0bef8c",
+        "android_client_info": {
+          "package_name": "com.example.ridusdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753260137317-3tjluu6jou1fe4t0ls784lpeen72qkg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridusdriver",
+            "certificate_hash": "a9af6d8fd4910e557d85145e6602e6c9e1bda8da"
+          }
+        },
+        {
+          "client_id": "753260137317-qu9bbb1dfqbcdegn6d42di4lpdna6sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYJt_lxbs_9SLWIXAVBtVQdaS3oQRrPk"
+        },
+        {
+          "current_key": "AIzaSyCsIu1HZszcgROwOWtKNXmSfYX1m-WBR4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753260137317-qu9bbb1dfqbcdegn6d42di4lpdna6sst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
